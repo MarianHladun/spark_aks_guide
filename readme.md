@@ -60,7 +60,7 @@ kubectl exec -ti --namespace default my-release-spark-worker-0 -- spark-submit -
 ![](screenshots/12.png)
 
 **Useful links:**
-https://artifacthub.io/packages/helm/bitnami/spark
-https://sparkbyexamples.com/pyspark/pyspark-read-csv-file-into-dataframe/
+- https://artifacthub.io/packages/helm/bitnami/spark
+- https://sparkbyexamples.com/pyspark/pyspark-read-csv-file-into-dataframe/
 
 
